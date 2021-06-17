@@ -48,27 +48,27 @@ META-package for install and configure Ezstream.
 - UPD: "ezstream.playlist.sh".
 - UPD: "ezstream.run.sh".
 
-* Thu Aug 01 2019 Package Store <pkgstore@pm.me> - 1.0.0-107
+* Thu Aug 01 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-107
 - UPD: Shell scripts.
 
-* Wed Jul 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-106
+* Wed Jul 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-106
 - UPD: SPEC-file.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-105
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-105
 - UPD: build script.
 - UPD: SPEC-file.
 
-* Sun Mar 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-104
+* Sun Mar 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-104
 - UPD: "run.ezstream.playlist.sh".
 
-* Sun Mar 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-103
+* Sun Mar 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-103
 - UPD: "run.ezstream.playlist.sh".
 
-* Sun Mar 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Sun Mar 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - UPD: "run.ezstream.playlist.sh".
 
-* Sun Mar 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Sun Mar 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - UPD: "run.ezstream.playlist.sh".
 
-* Sun Mar 31 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Sun Mar 31 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
